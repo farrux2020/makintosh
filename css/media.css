@@ -1,0 +1,60 @@
+@media(max-width:1232px){
+    .foto_about{
+        margin: auto;
+    }
+    
+
+}
+
+@media(max-width:1200px) {
+    .video video{
+        width: 100%;
+    }
+    .footer_left{
+        text-align: center;
+    }
+    
+    .footer__hello{
+        text-align: center;
+    }
+    .about__fon{
+        flex-direction: column;
+    }
+    .title__left{
+        text-align: center;
+    }
+}
+@media(max-width:992px) {
+    .brands{
+        margin-top: 10px;
+    }
+    .brands_logo{
+        padding-top: 50px;
+    }
+    .futer_silka{
+        margin: auto;
+    }
+}
+@media(max-width:767px) {
+    .foto_about{
+        flex-direction: column;
+    }
+    .img_about{
+        width: 100%;
+    }
+    .text_about_text{
+        margin: auto;
+    }
+    .contact-info{
+        
+        
+    }
+}
+@media(max-width:576px) {
+    .footer_left{
+        text-align: center;
+    }
+    .footer__hello{
+        text-align: center;
+    }
+}

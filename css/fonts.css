@@ -1,0 +1,35 @@
+@font-face{
+    font-family: "Montserrat";
+    src: url(../fonts+css+media/fonts/Montserrat-Medium.ttf);
+    font-weight: 500;
+}
+@font-face{
+    font-family: "Montserrat";
+    src: url(../fonts+css+media/fonts/Montserrat-Thin.ttf);
+    font-weight: 100;
+}
+@font-face{
+    font-family: "MyriadPro";
+    src: url(../fonts+css+media/fonts/MyriadPro-Regular.ttf);
+    font-weight: normal;
+}
+@font-face{
+    font-family: "NunitoSans";
+    src: url(../fonts+css+media/fonts/NunitoSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: "NunitoSans";
+    src: url(../fonts+css+media/fonts/NunitoSans-Regular.ttf);
+    font-weight: normal;
+}
+@font-face{
+    font-family: "Roboto";
+    src: url(../fonts+css+media/fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+@font-face{
+    font-family: "WorkSans";
+    src: url(../fonts+css+media/fonts/WorkSans-Regular.ttf);
+    font-weight: normal;
+}
